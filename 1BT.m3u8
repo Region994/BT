@@ -1,1 +1,4 @@
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:event
+#EXT-X-STREAM-INF:BANDWIDTH=1500000
 https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
