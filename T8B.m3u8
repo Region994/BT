@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://d5.vipl.one/low/9mlxywika2/1751.m3u8
+#EXT-X-ALLOW-CACHE:NO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://telecast.srthub.net/
+#EXTVLCOPT:http-origin=https://telecast.srthub.net/
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-accept-language=en-US,en;q=0.9
+#EXTVLCOPT:http-connection=keep-alive
+#EXTVLCOPT:http-cookie=
+
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
